@@ -2,6 +2,9 @@
 
 ![photo 1](gallery/1.jpg)
 
+![Alona McCreary](gallery/alona-mccreary.png)
+Alona teaching students how to light up the LEDs strips.
+
 ![photo 2](gallery/2.jpg)
 
 ![photo 3](gallery/3.png)
@@ -19,10 +22,16 @@ Getting these LEDs to light up in unique patterns is fun!
 
 ![photo 9](gallery/9.png)
 
-![photo 9](gallery/10.png)
+![photo 10](gallery/10.png)
 
-![photo 9](gallery11.png)
+![photo 11](gallery/11.png)
 
-![photo 9](gallery/12.png)
+![photo 12](gallery/12.png)
 
-![photo 9](gallery/12.png)
+![photo 14](gallery/14.png)
+
+![Jon Herke from 2019](gallery/jon-herke.png)
+Jon Herke from our 2019 Hackathon.
+
+![2019 Judges](img/../gallery/judges.png)
+Our 2019 Judges.

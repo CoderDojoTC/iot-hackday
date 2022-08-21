@@ -42,4 +42,5 @@ Sample kit contents include:
 * Raspberry Pi Pico
 * Breadboards
 * Wiring
+* LED strips
 
