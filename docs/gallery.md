@@ -2,9 +2,6 @@
 
 ![photo 1 - group image](gallery/1.png)
 
-![Alona McCreary](gallery/alona-mccreary.png)
-Alona teaching students how to light up the LEDs strips.
-
 ![photo 2](gallery/2.jpg)
 
 ![photo 3](gallery/3.png)
@@ -35,3 +32,6 @@ Jon Herke from our 2019 Hackathon.
 
 ![2019 Judges](img/../gallery/judges.png)
 Our 2019 Judges.
+
+![Alona McCreary](gallery/alona-mccreary.png)
+Alona teaching students how to light up the LEDs strips.

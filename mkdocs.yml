@@ -6,11 +6,11 @@ repo_url: 'https://github.com/CoderDojoTC/iot-hackday'
 nav:
   - Home: index.md
   - 2022 Event Details: 2022-event.md
-  - About: about.md
+  # - About: about.md
   - Sponsorship: sponsorships.md
   - Team Ideas: team-ideas.md
   - Education: education.md
-  - Contact: contact.md
+  # - Contact: contact.md
   - Partners: partners.md
   - Gallery: gallery.md
   - History: history.md
