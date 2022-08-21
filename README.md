@@ -1,7 +1,7 @@
 # IoT Hackday Microsite
 
 Link to Microsite:
-(http://www.coderdojotc.org/iot-hackday)[http://www.coderdojotc.org/iot-hackday]
+[http://www.coderdojotc.org/iot-hackday](http://www.coderdojotc.org/iot-hackday)
 
 ## Build Instructions
 
