@@ -4,20 +4,20 @@ site_description: 'Twin Cities Hackday Event Microsite.  All content licensed Cr
 site_author: 'Dan McCreary'
 repo_url: 'https://github.com/CoderDojoTC/iot-hackday'
 nav:
-  Home: index.md
-  2022 Event Details: 2022-event.md
-  About: about.md
-  History: history.md
-  Sponsorship: sponsorships.md
-  Team Ideas: team-ideas.md
+  - Home: index.md
+  - 2022 Event Details: 2022-event.md
+  - About: about.md
+  - History: history.md
+  - Sponsorship: sponsorships.md
+  - Team Ideas: team-ideas.md
   # Speakers: speakers.md
   # Schedule: schedule.md
-  # Venue: venue.md
-  Contact: contact.md
-  # Partners: partners.md
-  Code of Conduct: code-of-conduct.md
-  FAQ: faq.md
-  Resources: resources.md
+  - # Venue: venue.md
+  - Contact: contact.md
+  - Partners: partners.md
+  - Code of Conduct: code-of-conduct.md
+  - FAQ: faq.md
+  = Resources: resources.md
 
 # CoderDojo MicroSite Standards from here down
 edit_uri: 'blob/master/docs'
