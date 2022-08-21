@@ -1,1 +1,44 @@
-site_name: My Docs
+# customize to this site
+site_name: IOT Hackday
+site_description: 'Twin Cities Hackday Event Microsite.  All content licensed Creative Commons ShareAlike Attribution Noncommercial'
+site_author: 'Dan McCreary'
+repo_url: 'https://github.com/CoderDojoTC/iot-hackday'
+nav:
+  Home: index.md
+  2022 Event Details: 2022-event.md
+  About: about.md
+  History: history.md
+  Sponsorship: sponsorships.md
+  Team Ideas: team-ideas.md
+  # Speakers: speakers.md
+  # Schedule: schedule.md
+  # Venue: venue.md
+  Contact: contact.md
+  # Partners: partners.md
+  Code of Conduct: code-of-conduct.md
+  FAQ: faq.md
+  Resources: resources.md
+
+# CoderDojo MicroSite Standards from here down
+edit_uri: 'blob/master/docs'
+# this really just the link label to the GitHub repo
+repo_name: 'GitHub Repo'
+theme:
+  # We are using the mkdcos-material theme
+  name: material
+  logo: img/iot-hackday-logo.png
+  palette:
+    primary: '#642580'
+    accent: '#41BAC1'
+  custom_dir: 'theme'
+  include_sidebar: true
+plugins:
+  - search
+  # - mermaid2 - takes too long to build - use a screen image for now
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.highlight:
+      linenums: true
