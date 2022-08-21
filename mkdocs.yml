@@ -17,7 +17,7 @@ nav:
   - Partners: partners.md
   - Code of Conduct: code-of-conduct.md
   - FAQ: faq.md
-  = Resources: resources.md
+  - Resources: resources.md
 
 # CoderDojo MicroSite Standards from here down
 edit_uri: 'blob/master/docs'
