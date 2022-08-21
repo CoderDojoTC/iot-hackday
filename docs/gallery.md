@@ -1,6 +1,6 @@
 # IOT Hackday Gallery
 
-![photo 1](gallery/1.jpg)
+![photo 1 - group image](gallery/1.png)
 
 ![Alona McCreary](gallery/alona-mccreary.png)
 Alona teaching students how to light up the LEDs strips.
