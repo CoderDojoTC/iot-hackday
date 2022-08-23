@@ -487,6 +487,37 @@
 
 
 <h1 id="iot-hackday-2022-is-almost-here">IoT Hackday 2022 Is Almost Here!</h1>
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Oct 22, 2022 8:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get today's date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now and the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("countdown-timer").innerHTML = days + " days " + hours + " hours "
+  + minutes + " minutes and " + seconds + " seconds ";
+
+  // If the count down is finished, write some text
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("countdown-timer").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+
 <style type="text/css">
 .register-button:link, register-button:visited {
   background-color: green;
@@ -499,10 +530,21 @@
   display: inline-block;
 }
 
+#countdown-timer {
+    border: solid black 2px;
+    font-size: 24pt;
+    font-weight: bold;
+    background-color: silver;
+    color: black;
+    padding: 6px 12px;
+    text-align: center;
+    display: inline-block;
+}
 
 </style>
 <h2 id="event-date">Event Date</h2>
-<p>Saturday, October 22nd, 2022 8am to 7pm</p>
+<p><b>Saturday, October 22nd, 2022 8am to 7pm</b></p>
+<p>The Hackday starts in: <p id="countdown-timer"></p></p>
 <p><a href="https://www.eventbrite.com/e/iot-hackday-tickets-399059837717" class="register-button" style="color:white">Register on EventBright</a></p>
 <p>After you register on the EventBrite site we will notify you about matching participants with teams and registering your team.  Please sign up now so we can send you notifications about our team planning events.</p>
 <h2 id="themes-for-2022">Themes for 2022</h2>
