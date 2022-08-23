@@ -4,7 +4,7 @@
 
 Saturday, October 22nd, 2022.  
 
-This is two Saturday before Halloween.  We designed this so you can wear your IoT costume to Halloween parties on Saturday, October 29th.
+This is two Saturdays before Halloween.  We designed this so you can wear your IoT costume to Halloween parties on the following Saturday, October 29th.
 
 **Location:**
 
@@ -17,22 +17,24 @@ Free WiFi is available at the event.
 ## Schedule
 
 * 8:00 AM - 9:00 PM - teams setup
-* 9:00 AM - Welcome
+* 9:00 AM - Welcome and sponsor message
 * 9:30 AM - Hacking begins
 * 11:30 AM - Lunch
-* 6:00 PM - Hackathon ends and dinner begins and judging begins
+* 5:00 PM - Hackathon ends, dinner begins and judging begins
+* 6:00 PM - Presentations
 * 7:00 PM - Winners announced
 * 
-**What to Bring:**
+## What to Bring
 
 * Your laptop and power supply
 * USB cables that are compatible with your laptop (Mac will need USB C adaptors)
+* Any custom hardware you would like to use in your project
 
-**Student and Teacher Assistance:**
+## Student and Teacher Assistance
 
 * We have a separate room setup for students and teachers that are new to IoT technologies.  This is the board room to the left as you walk in the entrance.
 
-**Iot Hackday Development Kits**
+## Iot Hackday Development Kits
 
 We have supplied IoT Kits for the hackers to use during the hackathon.  These kits are available for purchase in advance.  Due to supply issues, we may not have kits available with the right part for everyone for purchase, but we do have ample kits for use during the hackathon.
 
@@ -43,4 +45,6 @@ Sample kit contents include:
 * Breadboards
 * Wiring
 * LED strips
+  
+We may also provide a variety of sensors you can use for your project.
 

@@ -1,12 +1,26 @@
 # IoT Hackday 2022 Is Almost Here!
 
+<style type="text/css">
+.register-button:link, register-button:visited {
+  background-color: green;
+  color: white !important;
+  font-size: 18pt;
+  font-weight: bold;
+  padding: 6px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+</style>
 ## Event Date
 
 Saturday, October 22nd, 2022 8am to 7pm
 
-[Registration](https://www.eventbrite.com/e/iot-hackday-tickets-399059837717)
+<a href="https://www.eventbrite.com/e/iot-hackday-tickets-399059837717" class="register-button" style="color:white">Register on EventBright</a>
 
-After you register we will notify you about matching participants with teams.  Please sign up now so we can send you notifications about our team planning events.
+After you register on the EventBrite site we will notify you about matching participants with teams and registering your team.  Please sign up now so we can send you notifications about our team planning events.
 
 ## Themes for 2022
 
