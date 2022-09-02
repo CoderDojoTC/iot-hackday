@@ -25,7 +25,7 @@ repo_name: 'GitHub Repo'
 theme:
   # We are using the mkdcos-material theme
   name: material
-  logo: img/iot-hackday-logo.png
+  # logo: img/iot-hackday-logo.png
   palette:
     primary: '#642580'
     accent: '#41BAC1'
