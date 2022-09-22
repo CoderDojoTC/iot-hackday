@@ -25,8 +25,6 @@ Getting these LEDs to light up in unique patterns is fun!
 
 ![photo 12](gallery/12.png)
 
-![photo 14](gallery/14.png)
-
 ![Jon Herke from 2019](gallery/jon-herke.png)
 Jon Herke from our 2019 Hackathon.
 

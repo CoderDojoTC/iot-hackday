@@ -1,5 +1,7 @@
 # Sponsorships
 
+![Intel Logo](../docs/img/intel.png) - our food sponsor!
+
 ## Platinum Sponsorship (1)
 
 * Premier table location
