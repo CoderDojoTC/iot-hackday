@@ -12,6 +12,8 @@ Cost: $2,000
 
 ## Gold Sponsorship (2)
 
+![](./img/thinking-spot-logo.webp)
+
 * Company table
 * Logo on t-shirt
 
