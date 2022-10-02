@@ -1,6 +1,7 @@
 # Sponsorships
 
-![Intel Logo](./img/intel.png) - our food sponsor!
+![Intel Logo](./img/intel.png)
+Intel
 
 ## Platinum Sponsorship (1)
 
@@ -13,6 +14,10 @@ Cost: $2,000
 ## Gold Sponsorship (2)
 
 ![](./img/thinking-spot-logo.png)
+The Thinking Spot
+
+![](./img/code-savvy.png)
+Cosd Savvy
 
 * Company table
 * Logo on t-shirt
