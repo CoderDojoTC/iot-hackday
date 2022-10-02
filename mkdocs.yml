@@ -35,9 +35,10 @@ plugins:
   - search
   # - mermaid2 - takes too long to build - use a screen image for now
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - attr_list
   - pymdownx.highlight:
       linenums: true

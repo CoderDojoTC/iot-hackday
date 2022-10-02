@@ -1,7 +1,7 @@
 # Sponsorships
 
-![Intel Logo](./img/intel.png)
-Intel
+![Intel Logo](./img/intel.png){ width="150" }
+
 
 ## Platinum Sponsorship (1)
 
@@ -13,11 +13,10 @@ Cost: $2,000
 
 ## Gold Sponsorship (2)
 
-![](./img/thinking-spot-logo.png)
-The Thinking Spot
+![](./img/thinking-spot-logo.png){ width="150" }
 
-![](./img/code-savvy.png)
-Cosd Savvy
+
+![](./img/code-savvy.png){ width="150" }
 
 * Company table
 * Logo on t-shirt
