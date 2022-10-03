@@ -16,7 +16,7 @@ Cost: $2,000
 ![](./img/thinking-spot-logo.png){ width="150" }
 
 
-![](./img/code-savvy.png){ width="150" }
+![](./img/code-savvy.png){ width="250" }
 
 * Company table
 * Logo on t-shirt
