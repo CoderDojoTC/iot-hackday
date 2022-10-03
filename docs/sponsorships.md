@@ -13,10 +13,12 @@ Cost: $2,000
 
 ## Gold Sponsorship (2)
 
-![](./img/thinking-spot-logo.png){ width="150" }
+![The Thinking Spot Logo](./img/thinking-spot-logo.png){ width="150" }
 
 
-![](./img/code-savvy.png){ width="250" }
+![Code Savvy Logo](./img/code-savvy.png){ width="250" }
+
+![Digikey Logo](./img/digikey-logo.png){ width="200" }
 
 * Company table
 * Logo on t-shirt
