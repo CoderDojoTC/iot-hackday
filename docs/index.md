@@ -1,4 +1,4 @@
-# IoT Hackday 2022 Is Almost Here!
+# IoT Hackday 2023 Is Almost Here!
 
 <script>
 // Set the date we're counting down to
@@ -61,7 +61,7 @@ var x = setInterval(function() {
 
 The Hackday starts in: <p id="countdown-timer"></p>
 
-<a href="https://www.eventbrite.com/e/iot-hackday-tickets-399059837717" class="register-button" style="color:white">Register on EventBright</a>
+<a href="https://www.eventbrite.com/e/code-savvy-iot-hackday-tickets-692503896797" class="register-button" style="color:white">Register on EventBright</a>
 
 After you register on the EventBrite site we will notify you about matching participants with teams and registering your team.  Please sign up now so we can send you notifications about our team planning events.
 
