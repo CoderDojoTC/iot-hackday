@@ -2,7 +2,7 @@
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Oct 22, 2022 8:00:00").getTime();
+var countDownDate = new Date("Oct 07, 2023 8:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -57,7 +57,7 @@ var x = setInterval(function() {
 </style>
 ## Event Date
 
-<b>Saturday, October 22nd, 2022 8am to 7pm</b>
+<b>Saturday, October 7th, 2023 8 am to 6 pm</b>
 
 The Hackday starts in: <p id="countdown-timer"></p>
 
@@ -65,13 +65,13 @@ The Hackday starts in: <p id="countdown-timer"></p>
 
 After you register on the EventBrite site we will notify you about matching participants with teams and registering your team.  Please sign up now so we can send you notifications about our team planning events.
 
-## Themes for 2022
+## Themes for 2023
 
 * Women in IoT
 * IoT and STEM in School Curriculum
 * Sustainability Projects
 * Low-cost IoT MicroPython devices such as the [$6 Raspberry Pi Pico W](https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/).
-* Integration of low cost [LED Fairy Lights](https://www.amazon.com/ALOVECO-Changing-Christmas-Halloween-Decorative/dp/B08TBF3DJJ) into costumes and devices
+* Integration of low-cost [LED Fairy Lights](https://www.amazon.com/ALOVECO-Changing-Christmas-Halloween-Decorative/dp/B08TBF3DJJ) into costumes and devices
 
 ## Location
 
