@@ -1,6 +1,6 @@
 # IOT Hackday Gallery
 
-![Dan in 2022](gallery/dan-2022.jpeg)
+![Dan McCreary in 2022](gallery/dan-2022.png)
 
 ![photo 1 - group image](gallery/1.png)
 
